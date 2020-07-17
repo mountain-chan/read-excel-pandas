@@ -1,0 +1,487 @@
+[
+    {
+        "sheet_name": "Fault",
+        "components": [
+            {
+                "name": "Motor",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:T01:M020_02:Fault_1",
+                        "Title": "Fault",
+                        "Content": "Stoerung_1"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:M020_02:Fault_2",
+                        "Title": "Fault",
+                        "Content": "Stoerung_2"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:M020_02:Fault_3",
+                        "Title": "Fault",
+                        "Content": "Stoerung_3"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:M020_02:Fault_4",
+                        "Title": "Fault",
+                        "Content": "Stoerung_FU"
+                    }
+                ]
+            },
+            {
+                "name": "Ventile",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:T01:V010_50:Fault_1",
+                        "Title": "Fault",
+                        "Content": "Stoerung_Laufz_Auf"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:V010_50:Fault_2",
+                        "Title": "Fault",
+                        "Content": "Stoerung_Laufz_Zu"
+                    }
+                ]
+            },
+            {
+                "name": "Ventile_analog",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:T01:V001_20analog:Fault_1",
+                        "Title": "Fault",
+                        "Content": "Grenzwert_o"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:V001_20analog:Fault_2",
+                        "Title": "Fault",
+                        "Content": "Warnwert_o"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:V001_20analog:Fault_3",
+                        "Title": "Fault",
+                        "Content": "Warnwert_u"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:V001_20analog:Fault_4",
+                        "Title": "Fault",
+                        "Content": "Grenzwert_u"
+                    }
+                ]
+            },
+            {
+                "name": "X",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:T01:X010_60:Fault_1",
+                        "Title": "Fault",
+                        "Content": "Stoerung_Laufz_Auf"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:X010_60:Fault_2",
+                        "Title": "Fault",
+                        "Content": "Stoerung_Laufz_Zu"
+                    }
+                ]
+            },
+            {
+                "name": "Digital (FSA, GOS, LS, LSA, SA, PSA42_1, PS)",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:T01:FSA005_08:Fault",
+                        "Title": "Fault",
+                        "Content": "Stoerung_1"
+                    }
+                ]
+            },
+            {
+                "name": "Pump\n(P001_18, P340_10, P340_12)",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:T01:P001_18:Fault_1",
+                        "Title": "Fault",
+                        "Content": "Grenzwert_o"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:P001_18:Fault_2",
+                        "Title": "Fault",
+                        "Content": "Warnwert_o"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:P001_18:Fault_3",
+                        "Title": "Fault",
+                        "Content": "Warnwert_u"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:P001_18:Fault_4",
+                        "Title": "Fault",
+                        "Content": "Grenzwert_u"
+                    }
+                ]
+            },
+            {
+                "name": "PSA (PSA005_11, PSA050_11, PSA350_11)",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:T01:PSA005_11:Fault_1",
+                        "Title": "Fault",
+                        "Content": "Grenzwert_o"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:PSA005_11:Fault_2",
+                        "Title": "Fault",
+                        "Content": "Warnwert_o"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:PSA005_11:Fault_3",
+                        "Title": "Fault",
+                        "Content": "Warnwert_u"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:PSA005_11:Fault_4",
+                        "Title": "Fault",
+                        "Content": "Grenzwert_u"
+                    }
+                ]
+            },
+            {
+                "name": "PM1\n(K001_01, P001_01, T001_01)",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:PM1:K001_01:Fault_1",
+                        "Title": "Fault",
+                        "Content": "Grenzwert_o"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:PM1:K001_01:Fault_2",
+                        "Title": "Fault",
+                        "Content": "Warnwert_o"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:PM1:K001_01:Fault_3",
+                        "Title": "Fault",
+                        "Content": "Warnwert_u"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:PM1:K001_01:Fault_4",
+                        "Title": "Fault",
+                        "Content": "Grenzwert_u"
+                    }
+                ]
+            },
+            {
+                "name": "Reset\n(F010_04, FIC010_04Komplett)",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:PM1:F010_04:Fault_1",
+                        "Title": "Fault",
+                        "Content": "Grenzwert_o"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:PM1:F010_04:Fault_2",
+                        "Title": "Fault",
+                        "Content": "Warnwert_o"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:PM1:F010_04:Fault_3",
+                        "Title": "Fault",
+                        "Content": "Warnwert_u"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:PM1:F010_04:Fault_4",
+                        "Title": "Fault",
+                        "Content": "Grenzwert_u"
+                    }
+                ]
+            },
+            {
+                "name": "BallMill, CommBallMill, ControlFuse, EmergencyStop, ExtRelease",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:T01:Ballmill:Fault",
+                        "Title": "Fault",
+                        "Content": "Stoerung_1"
+                    }
+                ]
+            },
+            {
+                "name": "Grund_Funktion",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:T01:08:GF:Fault_1",
+                        "Title": "Fault",
+                        "Content": "Stoerung_1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "sheet_name": "Event",
+        "components": [
+            {
+                "name": "Motor",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:T01:M020_02:Service",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:M020_02:Service_Off",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:M020_02:Service_On",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:M020_02:Simulation",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:M020_02:Setp_Speed",
+                        "Title": "Event",
+                        "Content": "Befehl_analog_01"
+                    }
+                ]
+            },
+            {
+                "name": "Ventile",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:T01:V010_50:Service",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:V010_50:Service_Off",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:V010_50:Service_On",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:V010_50:Simulation",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    }
+                ]
+            },
+            {
+                "name": "Ventile_analog",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:T01:V001_20analog:SimValue",
+                        "Title": "Event",
+                        "Content": "Befehl_analog_01"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:V001_20analog:Simulation",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    }
+                ]
+            },
+            {
+                "name": "X",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:T01:X010_60:Service",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:X010_60:Service_Off",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:X010_60:Service_On",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:X010_60:Simulation",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    }
+                ]
+            },
+            {
+                "name": "Digital (FSA, GOS, LS, LSA, SA, PSA42_1, PS)",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:T01:FSA005_08:Simulation",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:FSA005_08:Simulation_off",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:FSA005_08:Simulation_on",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    }
+                ]
+            },
+            {
+                "name": "Pump\n(P001_18, P340_10, P340_12)",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:T01:P001_18:SimValue",
+                        "Title": "Event",
+                        "Content": "Befehl_analog_01"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:P001_18:Simulation",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    }
+                ]
+            },
+            {
+                "name": "PSA  (PSA005_11, PSA050_11, PSA350_11)",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:T01:PSA005_11:SimValue",
+                        "Title": "Event",
+                        "Content": "Befehl_analog_01"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:PSA005_11:Simulation",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    }
+                ]
+            },
+            {
+                "name": "PM1\n(K001_01, P001_01, T001_01)",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:PM1:K001_01:SimValue",
+                        "Title": "Event",
+                        "Content": "Befehl_analog_01"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:PM1:K001_01:Simulation",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    }
+                ]
+            },
+            {
+                "name": "Reset\n(F010_04, FIC010_04Komplett)",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:PM1:F010_04:SimValue",
+                        "Title": "Event",
+                        "Content": "Befehl_analog_01"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:PM1:F010_04:Simulation",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    }
+                ]
+            },
+            {
+                "name": "BallMill, CommBallMill, ControlFuse, EmergencyStop, ExtRelease",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:T01:Ballmill:Simulation",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:Ballmill:Simulation_off",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:Ballmill:Simulation_on",
+                        "Title": "Event",
+                        "Content": "Befehl_digital"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "sheet_name": "Batch",
+        "components": [
+            {
+                "name": "Grund_Funktion",
+                "data": [
+                    {
+                        "DMS Name": "SPS1:FG01:T01:08:GF:Active",
+                        "Title": "Batch",
+                        "Content": "Fkt_Stop"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:08:GF:Active/d",
+                        "Title": "Batch",
+                        "Content": "Fkt_Start"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:08:S1:Active",
+                        "Title": "Batch",
+                        "Content": "Sollwert"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:08:S1:Setp2/prt",
+                        "Title": "Batch",
+                        "Content": "Sollwert"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:08:S1:Setpoint",
+                        "Title": "Batch",
+                        "Content": "Sollwert_man"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:08:S1:Setpoint_A",
+                        "Title": "Batch",
+                        "Content": "Sollwert_man"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:08:S1:Value_prt",
+                        "Title": "Batch",
+                        "Content": "Iswert"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:08:S2:Active",
+                        "Title": "Batch",
+                        "Content": "Sollwert"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:08:S2:Setp2/prt",
+                        "Title": "Batch",
+                        "Content": "Sollwert"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:08:S2:Setpoint",
+                        "Title": "Batch",
+                        "Content": "Sollwert_man"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:08:S2:Setpoint_A",
+                        "Title": "Batch",
+                        "Content": "Sollwert_man"
+                    },
+                    {
+                        "DMS Name": "SPS1:FG01:T01:08:S2:Value_prt",
+                        "Title": "Batch",
+                        "Content": "Iswert"
+                    }
+                ]
+            }
+        ]
+    }
+]
