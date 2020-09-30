@@ -1,0 +1,559 @@
+[
+    {
+        "function": "",
+        "function_id": "",
+        "parameters": []
+    },
+    {
+        "function": "Single question step",
+        "function_id": "Single",
+        "parameters": [
+            {
+                "name": "question",
+                "range": null
+            },
+            {
+                "name": "time",
+                "range": null
+            }
+        ]
+    },
+    {
+        "function": "Decision question step",
+        "function_id": "Decision",
+        "parameters": [
+            {
+                "name": "question",
+                "range": null
+            },
+            {
+                "name": "time",
+                "range": null
+            }
+        ]
+    },
+    {
+        "function": "FKT01-101 Dispersing/Circulation",
+        "function_id": "FKT01-101",
+        "parameters": [
+            {
+                "name": "mode",
+                "range": "[0-1]"
+            },
+            {
+                "name": "speed_conti_tds",
+                "range": "[300-3600 rpm]"
+            },
+            {
+                "name": "speed_pump",
+                "range": "[150-870 rpm]"
+            },
+            {
+                "name": "runtime",
+                "range": "[0-99999 s]"
+            },
+            {
+                "name": "switch_off_temperature",
+                "range": "[0-150°C]"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-101 Dispersing/Circulation STOP",
+        "function_id": "FKT01-101",
+        "parameters": [
+            {
+                "name": null,
+                "range": null
+            }
+        ]
+    },
+    {
+        "function": "FKT01-02 Mixing",
+        "function_id": "FKT01-02",
+        "parameters": [
+            {
+                "name": "speed_mixer",
+                "range": "[150-1800 rpm]"
+            },
+            {
+                "name": "runtime",
+                "range": "[0-99999 s]"
+            },
+            {
+                "name": "speed_characteristic",
+                "range": "0= setpoint / 1= speed characteristic]"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-102 Mixing STOP",
+        "function_id": "FKT01-102",
+        "parameters": [
+            {
+                "name": null,
+                "range": null
+            }
+        ]
+    },
+    {
+        "function": "FKT01-03 Mixing interval",
+        "function_id": "FKT01-03",
+        "parameters": [
+            {
+                "name": "speed_mixer",
+                "range": "[150-1800 rpm]"
+            },
+            {
+                "name": "runtime",
+                "range": "[0-99999 s]"
+            },
+            {
+                "name": "pulsetime",
+                "range": "[2-99999 s]"
+            },
+            {
+                "name": "pausetime",
+                "range": "[2-99999 s]"
+            },
+            {
+                "name": "speed_characteristic",
+                "range": "0= Setpoint / 1= Characteristic]"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-103 Mixing interval STOP",
+        "function_id": "FKT01-103",
+        "parameters": [
+            {
+                "name": null,
+                "range": null
+            }
+        ]
+    },
+    {
+        "function": "FKT01-06 Bead Mill",
+        "function_id": "FKT01-06",
+        "parameters": [
+            {
+                "name": "mode",
+                "range": "[0-2]"
+            },
+            {
+                "name": "runtime",
+                "range": "[0-99999 s]"
+            },
+            {
+                "name": "speed_bead_mill_pump",
+                "range": "[5-100 %]"
+            },
+            {
+                "name": "speed_bead_mill_rotor",
+                "range": "[200-780 rpm]"
+            },
+            {
+                "name": "speed_conti_tds",
+                "range": "[0-600 rpm]"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-106 Bead Mill STOP",
+        "function_id": "FKT01-106",
+        "parameters": [
+            {
+                "name": null,
+                "range": null
+            }
+        ]
+    },
+    {
+        "function": "FKT01-07 Fog nozzle (Pulse)",
+        "function_id": "FKT01-07",
+        "parameters": [
+            {
+                "name": "runtime",
+                "range": "[1-99999 s]"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-09 Cooling",
+        "function_id": "FKT01-09",
+        "parameters": [
+            {
+                "name": "temperature",
+                "range": "[0-100°C]"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-109 Cooling STOP",
+        "function_id": "FKT01-109",
+        "parameters": [
+            {
+                "name": null,
+                "range": null
+            }
+        ]
+    },
+    {
+        "function": "FKT01-11 Dosing water",
+        "function_id": "FKT01-11",
+        "parameters": [
+            {
+                "name": "way_of_dosing_via",
+                "range": "[0 = Water valve\n1 = Tank cleaning machine\n2 = Sprayball\n3 = Bottom side\n4 = Return line"
+            },
+            {
+                "name": "amount",
+                "range": "[0-100%]"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-12 Dosing other liquids I",
+        "function_id": "FKT01-12",
+        "parameters": [
+            {
+                "name": "amount",
+                "range": "[0-100%]"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-13 Dosing other liquids II",
+        "function_id": "FKT01-13",
+        "parameters": [
+            {
+                "name": "amount",
+                "range": "[0-100%]"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-20 Dosing IBC-Container",
+        "function_id": "FKT01-20",
+        "parameters": [
+            {
+                "name": "mode",
+                "range": "[0 = Dosing / 1 = Emptying hose]"
+            },
+            {
+                "name": "amount",
+                "range": "[0-100%]"
+            },
+            {
+                "name": "speed_pump_coarse_dosing",
+                "range": "[150-870 rpm]"
+            },
+            {
+                "name": "speed_pump_fine_dosing",
+                "range": "[150-870 rpm]"
+            },
+            {
+                "name": "density",
+                "range": "[0-10 kg/dm³]"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-21 Liquid ind. Hopper",
+        "function_id": "FKT01-21",
+        "parameters": [
+            {
+                "name": "amount",
+                "range": "[0-100%]"
+            },
+            {
+                "name": "speed_pump",
+                "range": "[150-870 rpm]"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-22 Dosing mobile Cont.",
+        "function_id": "FKT01-22",
+        "parameters": [
+            {
+                "name": "mode",
+                "range": "[0 = Dosing / 1 = Emptying hose]"
+            },
+            {
+                "name": "amount",
+                "range": "[0-100%]"
+            },
+            {
+                "name": "speed_pump_coarse_dosing",
+                "range": "[150-870 rpm]"
+            },
+            {
+                "name": "speed_pump_fine_dosing",
+                "range": "[150-870 rpm]"
+            },
+            {
+                "name": "density",
+                "range": "[0-10 kg/dm³]"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-30 Ind.out of FSA-5",
+        "function_id": "FKT01-30",
+        "parameters": [
+            {
+                "name": "amount",
+                "range": "[0-100%]"
+            },
+            {
+                "name": "inducting_speed_conti_tds",
+                "range": "[1500-3600 rpm]"
+            },
+            {
+                "name": "vibrator",
+                "range": "1= Continous\n2=Pulse\n3= On if empty \n 4=Off"
+            },
+            {
+                "name": "aeration_nozzle",
+                "range": "1= Continous\n2=Pulse\n3= On if empty \n 4=Off"
+            },
+            {
+                "name": "aeration_vibration",
+                "range": "1= Continous\n2=Pulse\n3= On if empty \n 4=Off"
+            },
+            {
+                "name": "empty_level_switch",
+                "range": "[0=Without / 1=With"
+            },
+            {
+                "name": "fsa_5",
+                "range": "[0=Without / 1=With"
+            },
+            {
+                "name": "amount_cleaning_powder_inlet",
+                "range": "kg"
+            },
+            {
+                "name": "dihedral_angle_valve_powder_inlet",
+                "range": "°"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-31 Ind.out powd.hopper",
+        "function_id": "FKT01-31",
+        "parameters": [
+            {
+                "name": "amount",
+                "range": "[0-100%]"
+            },
+            {
+                "name": "inducting_speed_conti_tds",
+                "range": "[1500-3600 rpm]"
+            },
+            {
+                "name": "vibrator",
+                "range": "1= Continous\n2=Pulse\n3= On if empty \n 4=Off"
+            },
+            {
+                "name": "amount_cleaning_powder_inlet",
+                "range": "[0-500 kg]"
+            },
+            {
+                "name": "aeration_vibration",
+                "range": "1= Continous\n2=Pulse\n3= On if empty \n 4=Off"
+            },
+            {
+                "name": "empty_level_switch",
+                "range": "[0=without / 1=with]"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-40 Manual dosing",
+        "function_id": "FKT01-40",
+        "parameters": [
+            {
+                "name": "amount",
+                "range": "[0-100]%"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-60 Discharge",
+        "function_id": "FKT01-60",
+        "parameters": [
+            {
+                "name": "amount",
+                "range": "[0-100]%"
+            },
+            {
+                "name": "speed_pump_coarse_dosing",
+                "range": "[150-870 rpm]"
+            },
+            {
+                "name": "speed_pump_fine_dosing",
+                "range": "[150-870 rpm]"
+            },
+            {
+                "name": "way_of_discharge",
+                "range": "0=Conti-TDS\n1=Pump"
+            },
+            {
+                "name": "speed_conti_coarse_dosing",
+                "range": "[300-3600 rpm]"
+            },
+            {
+                "name": "speed_conti_fine_dosing",
+                "range": "[300-3600 rpm]"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-71 Drain tank",
+        "function_id": "FKT01-71",
+        "parameters": [
+            {
+                "name": "speed_conti_tds",
+                "range": "[0-3600 rpm]"
+            },
+            {
+                "name": "max.runtime",
+                "range": "[0-99999 s]"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-72 Drain all",
+        "function_id": "FKT01-72",
+        "parameters": [
+            {
+                "name": "runtime",
+                "range": "[0-99999 s]"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-73 Blow out lines",
+        "function_id": "FKT01-73",
+        "parameters": [
+            {
+                "name": "way_of_blow_out_via",
+                "range": "[0-7]"
+            },
+            {
+                "name": "speed_conti_tds",
+                "range": "[300-3600 rpm]"
+            },
+            {
+                "name": "speed_pump",
+                "range": "[150-870 rpm]"
+            },
+            {
+                "name": "runtime",
+                "range": "[0-99999 s]"
+            },
+            {
+                "name": "mode",
+                "range": "0= Conti-TDS\n1= Conti with Pump\n2= Interval Conti with Pump"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-91 CIP Rinse",
+        "function_id": "FKT01-91",
+        "parameters": [
+            {
+                "name": "way_of_rinsing_via",
+                "range": "[0-4],nhưng chỉ liệt kê đến 2"
+            },
+            {
+                "name": "speed_conti_tds",
+                "range": "[0-3600 rpm]"
+            },
+            {
+                "name": "speed_pump",
+                "range": "[150-870 rpm]"
+            },
+            {
+                "name": "runtime",
+                "range": "[0-99999s]"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-92 CIP Filling",
+        "function_id": "FKT01-92",
+        "parameters": [
+            {
+                "name": "way_of_filling_via",
+                "range": "[0-4]"
+            },
+            {
+                "name": "amount",
+                "range": "[0-100]%"
+            },
+            {
+                "name": "speed_conti_tds",
+                "range": "[1900-3600 rpm]"
+            },
+            {
+                "name": "speed_pump",
+                "range": "[150-870 rpm]"
+            },
+            {
+                "name": "speed_fsa_5",
+                "range": "[2-12 rpm]"
+            },
+            {
+                "name": "fsa_5",
+                "range": "1 = without / 1 = with]"
+            },
+            {
+                "name": "aeration_nozzle",
+                "range": "1= continous\n2= pulse\n3= on of empty\n4= off"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-94 CIP Circulation",
+        "function_id": "FKT01-94",
+        "parameters": [
+            {
+                "name": "way_of_circulation_via",
+                "range": "[0-8]"
+            },
+            {
+                "name": "mode",
+                "range": "[0-2]"
+            },
+            {
+                "name": "speed_conti_tds",
+                "range": "[300-3600 rpm]"
+            },
+            {
+                "name": "speed_pump",
+                "range": "[150-870 rpm]"
+            },
+            {
+                "name": "runtime",
+                "range": "[0-99999 s]"
+            }
+        ]
+    },
+    {
+        "function": "FKT01-95 CIP Discharge/Drain",
+        "function_id": "FKT01-95",
+        "parameters": [
+            {
+                "name": "way_of_discharge/drain_from",
+                "range": "0 = Discharge with Conti \n1 = Discharge with pump"
+            },
+            {
+                "name": "speed_conti_tds",
+                "range": "[0-3600]"
+            }
+        ]
+    }
+]

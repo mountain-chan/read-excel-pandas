@@ -1,0 +1,455 @@
+[
+    {
+        "FKT01-01 Dispergieren/Zirkulieren - Conti-TDS": [
+            "FKT01-06 Perlmühle",
+            "FKT01-30 Einzug aus Pulvercontainer",
+            "FKT01-31 Einzug aus Pulvertrichter",
+            "FKT01-60 Austragen",
+            "FKT01-71 Behälter entleeren",
+            "FKT01-72 Alles entleeren",
+            "FKT01-73 Leitungen ausblasen",
+            "FKT01-91 CIP Spülen",
+            "FKT01-92 CIP Befüllen",
+            "FKT01-94 CIP Zirkulieren",
+            "FKT01-95 CIP Austragen/Entleeren"
+        ]
+    },
+    {
+        "FKT01-01 Dispergieren/Zirkulieren - Pumpe": [
+            "FKT01-06 Perlmühle",
+            "FKT01-20 Dosieren IBC-Container",
+            "FKT01-21 Einzug Flüssigtrichter",
+            "FKT01-22 Dosieren Mobiler Container",
+            "FKT01-60 Austragen",
+            "FKT01-71 Behälter entleeren",
+            "FKT01-72 Alles entleeren",
+            "FKT01-73 Leitungen ausblasen",
+            "FKT01-91 CIP Spülen",
+            "FKT01-92 CIP Befüllen",
+            "FKT01-94 CIP Zirkulieren",
+            "FKT01-95 CIP Austragen/Entleeren"
+        ]
+    },
+    {
+        "FKT01-02 Mischen": [
+            "FKT01-03 Mischen Intervall"
+        ]
+    },
+    {
+        "FKT01-03 Mischen Intervall": [
+            "FKT01-02 Mischen"
+        ]
+    },
+    {
+        "FKT01-06 Perlmühle": [
+            "FKT01-01 Dispergieren/Zirkulieren - Conti-TDS",
+            "FKT01-01 Dispergieren/Zirkulieren - Pumpe",
+            "FKT01-11 Dosieren Wasser",
+            "FKT01-12 Dosieren andere Flüssigkeiten I",
+            "FKT01-13 Dosieren andere Flüssigkeiten II",
+            "FKT01-20 Dosieren IBC-Container",
+            "FKT01-21 Einzug Flüssigtrichter",
+            "FKT01-22 Dosieren Mobiler Container",
+            "FKT01-30 Einzug aus Pulvercontainer",
+            "FKT01-31 Einzug aus Pulvertrichter",
+            "FKT01-40 Handzugabe",
+            "FKT01-60 Austragen",
+            "FKT01-71 Behälter entleeren",
+            "FKT01-72 Alles entleeren",
+            "FKT01-73 Leitungen ausblasen",
+            "FKT01-91 CIP Spülen",
+            "FKT01-92 CIP Befüllen",
+            "FKT01-94 CIP Zirkulieren",
+            "FKT01-95 CIP Austragen/Entleeren"
+        ]
+    },
+    {
+        "FKT01-07 Nebeldüse": []
+    },
+    {
+        "FKT01-08 Nebeldüse Intervall": []
+    },
+    {
+        "FKT01-09 Kühlen": [
+            "FKT01-06 Perlmühle"
+        ]
+    },
+    {
+        "FKT01-11 Dosieren Wasser": [
+            "FKT01-06 Perlmühle",
+            "FKT01-12 Dosieren andere Flüssigkeiten I",
+            "FKT01-13 Dosieren andere Flüssigkeiten II",
+            "FKT01-20 Dosieren IBC-Container",
+            "FKT01-21 Einzug Flüssigtrichter",
+            "FKT01-22 Dosieren Mobiler Container",
+            "FKT01-30 Einzug aus Pulvercontainer",
+            "FKT01-31 Einzug aus Pulvertrichter",
+            "FKT01-40 Handzugabe",
+            "FKT01-60 Austragen",
+            "FKT01-71 Behälter entleeren",
+            "FKT01-72 Alles entleeren",
+            "FKT01-73 Leitungen ausblasen",
+            "FKT01-91 CIP Spülen",
+            "FKT01-92 CIP Befüllen",
+            "FKT01-94 CIP Zirkulieren",
+            "FKT01-95 CIP Austragen/Entleeren"
+        ]
+    },
+    {
+        "FKT01-12 Dosieren andere Flüssigkeiten I": [
+            "FKT01-06 Perlmühle",
+            "FKT01-11 Dosieren Wasser",
+            "FKT01-13 Dosieren andere Flüssigkeiten II",
+            "FKT01-20 Dosieren IBC-Container",
+            "FKT01-21 Einzug Flüssigtrichter",
+            "FKT01-22 Dosieren Mobiler Container",
+            "FKT01-30 Einzug aus Pulvercontainer",
+            "FKT01-31 Einzug aus Pulvertrichter",
+            "FKT01-40 Handzugabe",
+            "FKT01-60 Austragen",
+            "FKT01-71 Behälter entleeren",
+            "FKT01-72 Alles entleeren",
+            "FKT01-73 Leitungen ausblasen",
+            "FKT01-91 CIP Spülen",
+            "FKT01-92 CIP Befüllen",
+            "FKT01-94 CIP Zirkulieren",
+            "FKT01-95 CIP Austragen/Entleeren"
+        ]
+    },
+    {
+        "FKT01-13 Dosieren andere Flüssigkeiten II": [
+            "FKT01-06 Perlmühle",
+            "FKT01-11 Dosieren Wasser",
+            "FKT01-12 Dosieren andere Flüssigkeiten I",
+            "FKT01-20 Dosieren IBC-Container",
+            "FKT01-21 Einzug Flüssigtrichter",
+            "FKT01-22 Dosieren Mobiler Container",
+            "FKT01-30 Einzug aus Pulvercontainer",
+            "FKT01-31 Einzug aus Pulvertrichter",
+            "FKT01-40 Handzugabe",
+            "FKT01-60 Austragen",
+            "FKT01-71 Behälter entleeren",
+            "FKT01-72 Alles entleeren",
+            "FKT01-73 Leitungen ausblasen",
+            "FKT01-91 CIP Spülen",
+            "FKT01-92 CIP Befüllen",
+            "FKT01-94 CIP Zirkulieren",
+            "FKT01-95 CIP Austragen/Entleeren"
+        ]
+    },
+    {
+        "FKT01-20 Dosieren IBC-Container": [
+            "FKT01-01 Dispergieren/Zirkulieren - Pumpe",
+            "FKT01-06 Perlmühle",
+            "FKT01-11 Dosieren Wasser",
+            "FKT01-12 Dosieren andere Flüssigkeiten I",
+            "FKT01-13 Dosieren andere Flüssigkeiten II",
+            "FKT01-21 Einzug Flüssigtrichter",
+            "FKT01-22 Dosieren Mobiler Container",
+            "FKT01-30 Einzug aus Pulvercontainer",
+            "FKT01-31 Einzug aus Pulvertrichter",
+            "FKT01-40 Handzugabe",
+            "FKT01-60 Austragen",
+            "FKT01-71 Behälter entleeren",
+            "FKT01-72 Alles entleeren",
+            "FKT01-73 Leitungen ausblasen",
+            "FKT01-91 CIP Spülen",
+            "FKT01-92 CIP Befüllen",
+            "FKT01-94 CIP Zirkulieren",
+            "FKT01-95 CIP Austragen/Entleeren"
+        ]
+    },
+    {
+        "FKT01-21 Einzug Flüssigtrichter": [
+            "FKT01-01 Dispergieren/Zirkulieren - Pumpe",
+            "FKT01-06 Perlmühle",
+            "FKT01-11 Dosieren Wasser",
+            "FKT01-12 Dosieren andere Flüssigkeiten I",
+            "FKT01-13 Dosieren andere Flüssigkeiten II",
+            "FKT01-20 Dosieren IBC-Container",
+            "FKT01-22 Dosieren Mobiler Container",
+            "FKT01-30 Einzug aus Pulvercontainer",
+            "FKT01-31 Einzug aus Pulvertrichter",
+            "FKT01-40 Handzugabe",
+            "FKT01-60 Austragen",
+            "FKT01-71 Behälter entleeren",
+            "FKT01-72 Alles entleeren",
+            "FKT01-73 Leitungen ausblasen",
+            "FKT01-91 CIP Spülen",
+            "FKT01-92 CIP Befüllen",
+            "FKT01-94 CIP Zirkulieren",
+            "FKT01-95 CIP Austragen/Entleeren"
+        ]
+    },
+    {
+        "FKT01-22 Dosieren Mobiler Container": [
+            "FKT01-01 Dispergieren/Zirkulieren - Pumpe",
+            "FKT01-06 Perlmühle",
+            "FKT01-11 Dosieren Wasser",
+            "FKT01-12 Dosieren andere Flüssigkeiten I",
+            "FKT01-13 Dosieren andere Flüssigkeiten II",
+            "FKT01-20 Dosieren IBC-Container",
+            "FKT01-21 Einzug Flüssigtrichter",
+            "FKT01-30 Einzug aus Pulvercontainer",
+            "FKT01-31 Einzug aus Pulvertrichter",
+            "FKT01-40 Handzugabe",
+            "FKT01-60 Austragen",
+            "FKT01-71 Behälter entleeren",
+            "FKT01-72 Alles entleeren",
+            "FKT01-73 Leitungen ausblasen",
+            "FKT01-91 CIP Spülen",
+            "FKT01-92 CIP Befüllen",
+            "FKT01-94 CIP Zirkulieren",
+            "FKT01-95 CIP Austragen/Entleeren"
+        ]
+    },
+    {
+        "FKT01-30 Einzug aus Pulvercontainer": [
+            "FKT01-01 Dispergieren/Zirkulieren - Conti-TDS",
+            "FKT01-06 Perlmühle",
+            "FKT01-11 Dosieren Wasser",
+            "FKT01-12 Dosieren andere Flüssigkeiten I",
+            "FKT01-13 Dosieren andere Flüssigkeiten II",
+            "FKT01-20 Dosieren IBC-Container",
+            "FKT01-21 Einzug Flüssigtrichter",
+            "FKT01-22 Dosieren Mobiler Container",
+            "FKT01-31 Einzug aus Pulvertrichter",
+            "FKT01-40 Handzugabe",
+            "FKT01-60 Austragen",
+            "FKT01-71 Behälter entleeren",
+            "FKT01-72 Alles entleeren",
+            "FKT01-73 Leitungen ausblasen",
+            "FKT01-91 CIP Spülen",
+            "FKT01-92 CIP Befüllen",
+            "FKT01-94 CIP Zirkulieren",
+            "FKT01-95 CIP Austragen/Entleeren"
+        ]
+    },
+    {
+        "FKT01-31 Einzug aus Pulvertrichter": [
+            "FKT01-01 Dispergieren/Zirkulieren - Conti-TDS",
+            "FKT01-06 Perlmühle",
+            "FKT01-11 Dosieren Wasser",
+            "FKT01-12 Dosieren andere Flüssigkeiten I",
+            "FKT01-13 Dosieren andere Flüssigkeiten II",
+            "FKT01-20 Dosieren IBC-Container",
+            "FKT01-21 Einzug Flüssigtrichter",
+            "FKT01-22 Dosieren Mobiler Container",
+            "FKT01-30 Einzug aus Pulvercontainer",
+            "FKT01-40 Handzugabe",
+            "FKT01-60 Austragen",
+            "FKT01-71 Behälter entleeren",
+            "FKT01-72 Alles entleeren",
+            "FKT01-73 Leitungen ausblasen",
+            "FKT01-91 CIP Spülen",
+            "FKT01-92 CIP Befüllen",
+            "FKT01-94 CIP Zirkulieren",
+            "FKT01-95 CIP Austragen/Entleeren"
+        ]
+    },
+    {
+        "FKT01-40 Handzugabe": [
+            "FKT01-06 Perlmühle",
+            "FKT01-11 Dosieren Wasser",
+            "FKT01-12 Dosieren andere Flüssigkeiten I",
+            "FKT01-13 Dosieren andere Flüssigkeiten II",
+            "FKT01-20 Dosieren IBC-Container",
+            "FKT01-21 Einzug Flüssigtrichter",
+            "FKT01-22 Dosieren Mobiler Container",
+            "FKT01-30 Einzug aus Pulvercontainer",
+            "FKT01-31 Einzug aus Pulvertrichter",
+            "FKT01-60 Austragen",
+            "FKT01-71 Behälter entleeren",
+            "FKT01-72 Alles entleeren",
+            "FKT01-73 Leitungen ausblasen",
+            "FKT01-91 CIP Spülen",
+            "FKT01-92 CIP Befüllen",
+            "FKT01-94 CIP Zirkulieren",
+            "FKT01-95 CIP Austragen/Entleeren"
+        ]
+    },
+    {
+        "FKT01-60 Austragen": [
+            "FKT01-01 Dispergieren/Zirkulieren - Conti-TDS",
+            "FKT01-01 Dispergieren/Zirkulieren - Pumpe",
+            "FKT01-06 Perlmühle",
+            "FKT01-11 Dosieren Wasser",
+            "FKT01-12 Dosieren andere Flüssigkeiten I",
+            "FKT01-13 Dosieren andere Flüssigkeiten II",
+            "FKT01-20 Dosieren IBC-Container",
+            "FKT01-21 Einzug Flüssigtrichter",
+            "FKT01-22 Dosieren Mobiler Container",
+            "FKT01-30 Einzug aus Pulvercontainer",
+            "FKT01-31 Einzug aus Pulvertrichter",
+            "FKT01-40 Handzugabe",
+            "FKT01-71 Behälter entleeren",
+            "FKT01-72 Alles entleeren",
+            "FKT01-73 Leitungen ausblasen",
+            "FKT01-91 CIP Spülen",
+            "FKT01-92 CIP Befüllen",
+            "FKT01-94 CIP Zirkulieren",
+            "FKT01-95 CIP Austragen/Entleeren"
+        ]
+    },
+    {
+        "FKT01-71 Behälter entleeren": [
+            "FKT01-01 Dispergieren/Zirkulieren - Conti-TDS",
+            "FKT01-01 Dispergieren/Zirkulieren - Pumpe",
+            "FKT01-06 Perlmühle",
+            "FKT01-11 Dosieren Wasser",
+            "FKT01-12 Dosieren andere Flüssigkeiten I",
+            "FKT01-13 Dosieren andere Flüssigkeiten II",
+            "FKT01-20 Dosieren IBC-Container",
+            "FKT01-21 Einzug Flüssigtrichter",
+            "FKT01-22 Dosieren Mobiler Container",
+            "FKT01-30 Einzug aus Pulvercontainer",
+            "FKT01-31 Einzug aus Pulvertrichter",
+            "FKT01-40 Handzugabe",
+            "FKT01-60 Austragen",
+            "FKT01-72 Alles entleeren",
+            "FKT01-73 Leitungen ausblasen",
+            "FKT01-91 CIP Spülen",
+            "FKT01-92 CIP Befüllen",
+            "FKT01-94 CIP Zirkulieren",
+            "FKT01-95 CIP Austragen/Entleeren"
+        ]
+    },
+    {
+        "FKT01-72 Alles entleeren": [
+            "FKT01-01 Dispergieren/Zirkulieren - Conti-TDS",
+            "FKT01-01 Dispergieren/Zirkulieren - Pumpe",
+            "FKT01-06 Perlmühle",
+            "FKT01-11 Dosieren Wasser",
+            "FKT01-12 Dosieren andere Flüssigkeiten I",
+            "FKT01-13 Dosieren andere Flüssigkeiten II",
+            "FKT01-20 Dosieren IBC-Container",
+            "FKT01-21 Einzug Flüssigtrichter",
+            "FKT01-22 Dosieren Mobiler Container",
+            "FKT01-30 Einzug aus Pulvercontainer",
+            "FKT01-31 Einzug aus Pulvertrichter",
+            "FKT01-40 Handzugabe",
+            "FKT01-60 Austragen",
+            "FKT01-71 Behälter entleeren",
+            "FKT01-73 Leitungen ausblasen",
+            "FKT01-91 CIP Spülen",
+            "FKT01-92 CIP Befüllen",
+            "FKT01-94 CIP Zirkulieren",
+            "FKT01-95 CIP Austragen/Entleeren"
+        ]
+    },
+    {
+        "FKT01-73 Leitungen ausblasen": [
+            "FKT01-01 Dispergieren/Zirkulieren - Conti-TDS",
+            "FKT01-01 Dispergieren/Zirkulieren - Pumpe",
+            "FKT01-06 Perlmühle",
+            "FKT01-11 Dosieren Wasser",
+            "FKT01-12 Dosieren andere Flüssigkeiten I",
+            "FKT01-13 Dosieren andere Flüssigkeiten II",
+            "FKT01-20 Dosieren IBC-Container",
+            "FKT01-21 Einzug Flüssigtrichter",
+            "FKT01-22 Dosieren Mobiler Container",
+            "FKT01-30 Einzug aus Pulvercontainer",
+            "FKT01-31 Einzug aus Pulvertrichter",
+            "FKT01-40 Handzugabe",
+            "FKT01-60 Austragen",
+            "FKT01-71 Behälter entleeren",
+            "FKT01-72 Alles entleeren",
+            "FKT01-91 CIP Spülen",
+            "FKT01-92 CIP Befüllen",
+            "FKT01-94 CIP Zirkulieren",
+            "FKT01-95 CIP Austragen/Entleeren"
+        ]
+    },
+    {
+        "FKT01-91 CIP Spülen": [
+            "FKT01-01 Dispergieren/Zirkulieren - Conti-TDS",
+            "FKT01-01 Dispergieren/Zirkulieren - Pumpe",
+            "FKT01-06 Perlmühle",
+            "FKT01-11 Dosieren Wasser",
+            "FKT01-12 Dosieren andere Flüssigkeiten I",
+            "FKT01-13 Dosieren andere Flüssigkeiten II",
+            "FKT01-20 Dosieren IBC-Container",
+            "FKT01-21 Einzug Flüssigtrichter",
+            "FKT01-22 Dosieren Mobiler Container",
+            "FKT01-30 Einzug aus Pulvercontainer",
+            "FKT01-31 Einzug aus Pulvertrichter",
+            "FKT01-40 Handzugabe",
+            "FKT01-60 Austragen",
+            "FKT01-71 Behälter entleeren",
+            "FKT01-72 Alles entleeren",
+            "FKT01-73 Leitungen ausblasen",
+            "FKT01-92 CIP Befüllen",
+            "FKT01-94 CIP Zirkulieren",
+            "FKT01-95 CIP Austragen/Entleeren"
+        ]
+    },
+    {
+        "FKT01-92 CIP Befüllen": [
+            "FKT01-01 Dispergieren/Zirkulieren - Conti-TDS",
+            "FKT01-01 Dispergieren/Zirkulieren - Pumpe",
+            "FKT01-06 Perlmühle",
+            "FKT01-11 Dosieren Wasser",
+            "FKT01-12 Dosieren andere Flüssigkeiten I",
+            "FKT01-13 Dosieren andere Flüssigkeiten II",
+            "FKT01-20 Dosieren IBC-Container",
+            "FKT01-21 Einzug Flüssigtrichter",
+            "FKT01-22 Dosieren Mobiler Container",
+            "FKT01-30 Einzug aus Pulvercontainer",
+            "FKT01-31 Einzug aus Pulvertrichter",
+            "FKT01-40 Handzugabe",
+            "FKT01-60 Austragen",
+            "FKT01-71 Behälter entleeren",
+            "FKT01-72 Alles entleeren",
+            "FKT01-73 Leitungen ausblasen",
+            "FKT01-91 CIP Spülen",
+            "FKT01-94 CIP Zirkulieren",
+            "FKT01-95 CIP Austragen/Entleeren"
+        ]
+    },
+    {
+        "FKT01-94 CIP Zirkulieren": [
+            "FKT01-01 Dispergieren/Zirkulieren - Conti-TDS",
+            "FKT01-01 Dispergieren/Zirkulieren - Pumpe",
+            "FKT01-06 Perlmühle",
+            "FKT01-11 Dosieren Wasser",
+            "FKT01-12 Dosieren andere Flüssigkeiten I",
+            "FKT01-13 Dosieren andere Flüssigkeiten II",
+            "FKT01-20 Dosieren IBC-Container",
+            "FKT01-21 Einzug Flüssigtrichter",
+            "FKT01-22 Dosieren Mobiler Container",
+            "FKT01-30 Einzug aus Pulvercontainer",
+            "FKT01-31 Einzug aus Pulvertrichter",
+            "FKT01-40 Handzugabe",
+            "FKT01-60 Austragen",
+            "FKT01-71 Behälter entleeren",
+            "FKT01-72 Alles entleeren",
+            "FKT01-73 Leitungen ausblasen",
+            "FKT01-91 CIP Spülen",
+            "FKT01-92 CIP Befüllen",
+            "FKT01-95 CIP Austragen/Entleeren"
+        ]
+    },
+    {
+        "FKT01-95 CIP Austragen/Entleeren": [
+            "FKT01-01 Dispergieren/Zirkulieren - Conti-TDS",
+            "FKT01-01 Dispergieren/Zirkulieren - Pumpe",
+            "FKT01-06 Perlmühle",
+            "FKT01-11 Dosieren Wasser",
+            "FKT01-12 Dosieren andere Flüssigkeiten I",
+            "FKT01-13 Dosieren andere Flüssigkeiten II",
+            "FKT01-20 Dosieren IBC-Container",
+            "FKT01-21 Einzug Flüssigtrichter",
+            "FKT01-22 Dosieren Mobiler Container",
+            "FKT01-30 Einzug aus Pulvercontainer",
+            "FKT01-31 Einzug aus Pulvertrichter",
+            "FKT01-40 Handzugabe",
+            "FKT01-60 Austragen",
+            "FKT01-71 Behälter entleeren",
+            "FKT01-72 Alles entleeren",
+            "FKT01-73 Leitungen ausblasen",
+            "FKT01-91 CIP Spülen",
+            "FKT01-92 CIP Befüllen",
+            "FKT01-94 CIP Zirkulieren"
+        ]
+    }
+]

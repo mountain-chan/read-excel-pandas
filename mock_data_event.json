@@ -1,0 +1,46 @@
+[
+  {
+    "batch_id": "uuid123",
+    "batch_name": "Batch_11082020_1647",
+    "messages": [
+      {
+        "datetime": 1570707120.0,
+        "batch": {
+          "name": "Batch_11082020_1647",
+          "id": "uuid123"
+        },
+        "recipe": {
+          "name": "Recipe_1234",
+          "id": "uuid1234"
+        },
+        "title": 51830,
+        "content": 51840,
+        "user": "user name",
+        "type": "fault",
+        "dms_name": "FG01:T01:M001_02:Fault_1"
+      }
+    ]
+  },
+  {
+    "batch_id": "uuid123",
+    "batch_name": "Batch_11082020_1647",
+    "messages": [
+      {
+        "datetime": 1570707120.0,
+        "batch": {
+          "name": "Batch_11082020_1647",
+          "id": "uuid123"
+        },
+        "recipe": {
+          "name": "Recipe_1234",
+          "id": "uuid1234"
+        },
+        "title": 51830,
+        "content": 51840,
+        "user": "user name",
+        "type": "fault",
+        "dms_name": "FG01:T01:M001_02:Fault_1"
+      }
+    ]
+  }
+]

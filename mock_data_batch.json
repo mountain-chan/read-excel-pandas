@@ -1,0 +1,98 @@
+[
+    {
+        "Time": 1570707120.0,
+        "Batch name": "Batch_11082020_1647",
+        "Recipe name": "Recipe_1234",
+        "Function name": "FKT01-01 Dispersing/Circulation",
+        "Content": "Mode - 1 ",
+        "User": "Admin"
+    },
+    {
+        "Time": 1570707120.0,
+        "Batch name": "Batch_11082020_1647",
+        "Recipe name": "Recipe_1234",
+        "Function name": "FKT01-01 Dispersing/Circulation",
+        "Content": "Mode",
+        "User": "Admin"
+    },
+    {
+        "Time": 1570707120.0,
+        "Batch name": "Batch_11082020_1647",
+        "Recipe name": "Recipe_1234",
+        "Function name": "FKT01-02 Mixing ",
+        "Content": "Runtime - 90s",
+        "User": "Admin"
+    },
+    {
+        "Time": 1570707120.0,
+        "Batch name": "Batch_11082020_1647",
+        "Recipe name": "Recipe_1234",
+        "Function name": "FKT01-11 Dosing water",
+        "Content": null,
+        "User": null
+    },
+    {
+        "Time": 1570707120.0,
+        "Batch name": "Batch_11082020_1647",
+        "Recipe name": "Recipe_1234",
+        "Function name": "FKT01-11 Dosing water",
+        "Content": "Aeration time mixing chamber",
+        "User": "Admin"
+    },
+    {
+        "Time": 1570707120.0,
+        "Batch name": "Batch_11082020_1647",
+        "Recipe name": "Recipe_1234",
+        "Function name": "FKT01-11 Dosing water",
+        "Content": null,
+        "User": null
+    },
+    {
+        "Time": 1570707120.0,
+        "Batch name": "Batch_11082020_1648",
+        "Recipe name": "Recipe_1234",
+        "Function name": "FKT01-95 CIP Discharge/Drain",
+        "Content": null,
+        "User": "User par.Net"
+    },
+    {
+        "Time": 1570707120.0,
+        "Batch name": "Batch_11082020_1648",
+        "Recipe name": "Recipe_1234",
+        "Function name": "FKT01-95 CIP Discharge/Drain",
+        "Content": "Way of discharge/drain from",
+        "User": "User par.Net"
+    },
+    {
+        "Time": 1570707120.0,
+        "Batch name": "Batch_11082020_1648",
+        "Recipe name": "Recipe_1234",
+        "Function name": "FKT01-95 CIP Discharge/Drain",
+        "Content": "Speed Conti-TDS (way 0)",
+        "User": "User par.Net"
+    },
+    {
+        "Time": 1570707120.0,
+        "Batch name": "Batch_11082020_1648",
+        "Recipe name": "Recipe_1234",
+        "Function name": "FKT01-95 CIP Discharge/Drain",
+        "Content": "Runtime",
+        "User": "User par.Net"
+    },
+    {
+        "Time": 1570707120.0,
+        "Batch name": "Batch_11082020_1648",
+        "Recipe name": "Recipe_1234",
+        "Function name": "FKT01-95 CIP Discharge/Drain",
+        "Content": null,
+        "User": "User par.Net"
+    },
+    {
+        "Time": 1570707120.0,
+        "Batch name": "Batch_11082020_1648",
+        "Recipe name": "Recipe_1234",
+        "Function name": "FKT01-95 CIP Discharge/Drain",
+        "Content": "Speed Pump (way1)",
+        "User": "User par.Net"
+    }
+]
